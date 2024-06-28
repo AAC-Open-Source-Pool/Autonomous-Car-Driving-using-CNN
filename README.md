@@ -1,7 +1,7 @@
 # Autonomous-Car-Driving-using-CNN
 
 <h2>Introduction</h2>
-<p>This project aims to develop a simulation environment for autonmous car driving using Convolutional Neural Network and Udacity Simulator. While Reinforcement Learning is the go-to functionality while dealing with decision making entities, we have chosen to go with Convolutional Neural Networks as they are light-in-weight when compared to Reinforcement Learning. Moreover, CNN provides better feature extraction</p>
+<p>This project aims to develop a simulation environment for autonmous car driving using Convulutional Neural Network and Udacity Simulator. While Reinforcement Learning is the go-to functionality while dealing with decision making entities, we have chosen to go with Convulutional Neural Networks as they are light-in-weight when compared to Reinforcement Learning. Moreover, CNN provides better feature extraction</p>
 
 <h2>Requirements</h2>
 <table>
@@ -23,7 +23,7 @@
   <caption>Library Requirements</caption>
   <tr>
     <th>Library</th>
-    <th>Jupyter / Collab Installation</th>
+    <th>Jupyter / Cullab Installation</th>
     <th>Command Prompt</th>
   </tr>
   
@@ -133,23 +133,23 @@
 
 <h2>How to Run</h2>
 <h3>Installations</h3>
-<ol>
+<ul>
   <li>Install the Udacity Simulator by the provided link. A zip file will be installed, which has to be extracted in the working directory</li>
-</ol>
+</ul>
 <br>
 <h3>Training</h3>
-<ol>
+<ul>
   <li>Open the Udacity Simulator and click on "play" on the displayed dialogue box. Click on "Training Mode". When the map is opened, click on the record button to record the images and their corresponding steering angles. This data acts as the training dataset, so it is advised to be careful while creating this dataset.</li>
-</ol>
+</ul>
 <br>
 <h3>Virtual Environment Creation</h3>
-<ol>
+<ul>
   <li>You can create the virtual environment in the <a href = "https://www.anaconda.com/download">anaconda prompt</li>
-</ol>
+</ul>
 <h3>Cloning</h3>
-<ol>
+<ul>
   <li>You can clone the repository by executing this command in the gitbash environment in the required directory</li>
-  <code>git clone https://github.com/AAC-Open-Source-Pool/Autonomous-Car-Driving-using-CNN.git</code>
+  <code>git clone https://github.com/AAC-Open-Source-Poul/Autonomous-Car-Driving-using-CNN.git</code>
   <li>Make sure that all the paths are properly configured. </li>
-</ol>
+</ul>
 
