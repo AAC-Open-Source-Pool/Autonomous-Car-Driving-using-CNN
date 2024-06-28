@@ -135,7 +135,7 @@
 <h3>Cloning</h3>
 <ol>
   <li>You can clone the repository by executing this command in the gitbash environment in the required directory</li>
-  <code>git clone</code>
+  <code>git clone https://github.com/AAC-Open-Source-Pool/Autonomous-Car-Driving-using-CNN.git</code>
 </ol>
 
 
