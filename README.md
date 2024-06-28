@@ -1,6 +1,9 @@
 # Autonomous-Car-Driving-using-CNN
 
-<h1>Introduction</h1>
+<h2>Contents</h2>
+[Introduction](#introduction)
+
+<h2>Introduction</h2>
 <p>This project aims to develop a simulation environment for autonmous car driving using Convolutional Neural Network and Udacity Simulator. While Reinforcement Learning is the go-to functionality while dealing with decision making entities, we have chosen to go with Convolutional Neural Networks as they are light-in-weight when compared to Reinforcement Learning. Moreover, CNN provides better feature extraction</p>
 
 <h2>Requirements</h2>
