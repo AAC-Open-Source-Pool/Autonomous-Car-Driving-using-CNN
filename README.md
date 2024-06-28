@@ -62,5 +62,41 @@
     <td>!pip install scikit-learn</td>
     <td>py -m pip install scikit-learn</td>
   </tr>
+
+   <tr>
+    <td>imgaug</td>
+    <td>!pip install imgaug</td>
+    <td>py -m pip install imgaug</td>
+  </tr>
+
+   <tr>
+    <td>opencv</td>
+    <td>!pip install opencv-python</td>
+    <td>py -m pip install opencv-python</td>
+  </tr>
+
+   <tr>
+    <td>pandas</td>
+    <td>!pip install pandas</td>
+    <td>py -m pip install pandas</td>
+  </tr>
+
+   <tr>
+    <td>ntpath</td>
+    <td>!pip install path</td>
+    <td>py -m pip install path</td>
+  </tr>
+
+   <tr>
+    <td>random</td>
+    <td>!pip install random2</td>
+    <td>py -m pip install random2</td>
+  </tr>
+
+   <tr>
+    <td>eventlet</td>
+    <td>!pip install eventlets</td>
+    <td>py -m pip install eventlet</td>
+  </tr>
   
 </table>
