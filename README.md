@@ -146,6 +146,7 @@
 <ul>
   <li>You can create the virtual environment in the <a href = "https://www.anaconda.com/download">anaconda prompt</li>
 </ul>
+<br>
 <h3>Cloning</h3>
 <ul>
   <li>You can clone the repository by executing this command in the gitbash environment in the required directory</li>
