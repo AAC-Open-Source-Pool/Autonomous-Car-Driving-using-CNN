@@ -95,8 +95,38 @@
 
    <tr>
     <td>eventlet</td>
-    <td>!pip install eventlets</td>
+    <td>!pip install eventlet</td>
     <td>py -m pip install eventlet</td>
+  </tr>
+
+   <tr>
+    <td>Flask</td>
+    <td>!pip install Flask</td>
+    <td>py -m pip install Flask</td>
+  </tr>
+
+   <tr>
+    <td>base64</td>
+    <td>!pip install pybase64</td>
+    <td>py -m pip install pybase64</td>
+  </tr>
+
+   <tr>
+    <td>io</td>
+    <td>!pip install python-io</td>
+    <td>py -m pip install python-io</td>
+  </tr>
+
+   <tr>
+    <td>PIL</td>
+    <td>!pip install Pillow</td>
+    <td>py -m pip install Pillow</td>
+  </tr>
+
+   <tr>
+    <td>socketio</td>
+    <td>!pip install python-socketio</td>
+    <td>py -m pip install python-socketio</td>
   </tr>
   
 </table>
